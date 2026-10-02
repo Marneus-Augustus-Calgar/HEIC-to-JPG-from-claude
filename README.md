@@ -2,6 +2,8 @@
 
 把 iPhone 拍的 HEIC / HEIF 照片轉成 JPG,保留 EXIF(拍攝時間、GPS 等)與色彩設定檔。
 
+> 為什麼用line就能把heic轉成jpg了我還要寫一支程式呢?純粹是我喜歡拖放而已...
+
 ## 下載 exe(免安裝 Python)
 
 到 [Releases](../../releases/latest) 下載 `HEIC-to-JPG.exe`。
